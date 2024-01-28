@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+    "name": "Duckduckgo search box extention⠀⠀⠀Tre utils",
+    "version": "1.0",
+    "description": "Adds a popup search box, apart of the Tre Browser core utils pack.",
+
+"icons": {
+  "48": "you dont want to know.png"
+},    
+    "browser_action": {
+      "default_popup": "files.html"
+    }
+  }
+  
